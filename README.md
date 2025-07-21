@@ -14,6 +14,6 @@ Aprender a integrar varias tecnologías: Docker, Postgres, Knex, JWT, bcryptjs y
 ## 🚀 Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/tu-repo-pokemon-api.git
+   git clone https://github.com/luna79/tarea-modilo-2
    cd tu-repo-pokemon-api
 
